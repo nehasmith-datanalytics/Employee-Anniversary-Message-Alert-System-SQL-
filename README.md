@@ -1,6 +1,6 @@
 # Employee-Anniversary-Message-Alert-System-SQL-
 
-# Database Diagram:
+## Database Diagram:
 <img width="937" height="560" alt="Database Diagram" src="https://github.com/user-attachments/assets/02b7b1d7-7269-43a2-acd7-efbcf75ed338" />
 
 
